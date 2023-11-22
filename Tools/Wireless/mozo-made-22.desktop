@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/custom/aircrack-ng.svg
+Icon[en_GB]=/usr/share/icons/custom/aircrack-ng.svg
+Name[en_GB]=aircrack-ng
+Exec=hold-term aircrack-ng
+Name=aircrack-ng

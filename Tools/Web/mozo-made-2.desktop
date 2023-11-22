@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/custom/zaproxy.svg
+Icon[en_GB]=/usr/share/icons/custom/zaproxy.svg
+Name[en_GB]=OWASP Zap
+Exec=zaproxy
+Name=OWASP Zap

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=/usr/share/icons/custom/hydra.svg
+Icon[en_GB]=/usr/share/icons/custom/hydra.svg
+Name[en_GB]=Hydra
+Exec=hold-term hydra
+Name=Hydra

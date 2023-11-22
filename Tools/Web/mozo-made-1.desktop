@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=/usr/share/icons/custom/nikto.svg
+Icon[en_GB]=/usr/share/icons/custom/nikto.svg
+Name[en_GB]=Nikto
+Name=Nikto
+Exec=hold-term nikto -H

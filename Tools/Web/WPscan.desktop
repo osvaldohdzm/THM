@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=mate-panel-launcher
+Icon[en_GB]=mate-panel-launcher
+Exec=hold-term /usr/local/bin/wpscan --version
+Name[en_GB]=WPscan
+Name=WPscan

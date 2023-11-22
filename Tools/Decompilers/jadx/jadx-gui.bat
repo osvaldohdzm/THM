@@ -1,0 +1,1 @@
+/opt/jadx/bin/jadx-gui.bat

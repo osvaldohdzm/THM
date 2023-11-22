@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/usr/share/icons/custom/ghidra.png
+Icon[en_GB]=/usr/share/icons/custom/ghidra.png
+Name[en_GB]=Ghidra
+Exec=/opt/ghidra_9.1.2_PUBLIC/ghidraRun
+Name=Ghidra

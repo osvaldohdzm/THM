@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon=mate-panel-launcher
+Icon[en_GB]=mate-panel-launcher
+Name[en_GB]=Radare 2
+Exec=hold-term r2
+Name=Radare 2
